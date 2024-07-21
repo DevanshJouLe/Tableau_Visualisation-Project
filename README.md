@@ -37,7 +37,7 @@ The Tableau dashboard provides insights into the following:
    ```bash
    git clone https://github.com/DevanshJouLe/Tableau_Visualisation-Project
 2. **Open the Tableau Project**:
-Open Tableau and load the .twbx file from the Tableau folder.
+Open Tableau and load the .twb file from the Tableau folder.
 
 3. **Explore the Dashboard**:
 Interact with the dashboard to explore various insights and comparisons.
