@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on data visualization of Netflix titles, including movies and TV shows, using a dataset sourced from Kaggle. The aim is to analyze various aspects of the Netflix library and present insights through an interactive Tableau dashboard. This project serves as a portfolio piece to demonstrate data analysis and visualization skills, and to suggest potential product improvements for Netflix.
+This project focuses on data visualization of Netflix titles, including movies and TV shows, using a dataset sourced from Kaggle. The aim is to analyze various aspects of the Netflix library and present insights through an interactive Tableau dashboard. This project serves as a portfolio piece to demonstrate data analysis and visualization skills and to suggest potential product improvements for Netflix.
 
 ## Dataset
 
@@ -16,13 +16,13 @@ The dataset used for this project is obtained from Kaggle and includes informati
 ## Project Structure
 
 - **Data**: Contains the raw dataset downloaded from Kaggle.
-- **Tableau**: Includes the Tableau project file (.twbx) and screenshots of the dashboard and comparisons.
+- **Tableau**: Includes the Tableau project file (.twbx), dashboard screenshots, and comparisons.
 - **Screenshots**: Visualizations of different comparisons made in the dashboard.
 - **README.md**: Project documentation.
 
 ## Tableau Dashboard
 
-The Tableau dashboard provides insights into:
+The Tableau dashboard provides insights into the following:
 
 - The distribution of titles by type (movie or TV show).
 - Trends in the release year of titles.
@@ -33,7 +33,7 @@ The Tableau dashboard provides insights into:
 ### Dashboard Highlights
 
 - **Title Distribution**: A visual comparison of the number of movies vs. TV shows available on Netflix.
-- **Release Year Trend**: An analysis of how the number of titles added each year has changed over time.
+- **Release Year Trend**: An analysis of how the number of titles added each year has changed.
 - **Genre Analysis**: Insight into the most popular genres and their prevalence.
 - **Duration Analysis**: A breakdown of average duration for movies and TV shows.
 - **Ratings**: Distribution of various ratings and their potential impact on viewership.
@@ -60,8 +60,9 @@ Balance the addition of new content between movies and TV shows to cater to diff
 **User Experience**:
 
 Enhance the discovery features to highlight trending genres and newly released titles.
-Implement personalized recommendations based on user’s viewing history and preferences.
+Implement personalized recommendations based on the user’s viewing history and preferences.
 
 **Content Duration**:
+
 Optimal Content Length: Analyze user engagement metrics to determine the optimal content duration for various genres.
 
