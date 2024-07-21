@@ -13,13 +13,6 @@ The dataset used for this project is obtained from Kaggle and includes informati
 - **Tableau**: Used for creating interactive dashboards and visualizations.
 - **Kaggle**: Source of the dataset.
 
-## Project Structure
-
-- **Data**: Contains the raw dataset downloaded from Kaggle.
-- **Tableau**: Includes the Tableau project file (.twbx), dashboard screenshots, and comparisons.
-- **Screenshots**: Visualizations of different comparisons made in the dashboard.
-- **README.md**: Project documentation.
-
 ## Tableau Dashboard
 
 The Tableau dashboard provides insights into the following:
@@ -42,7 +35,7 @@ The Tableau dashboard provides insights into the following:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/netflix-titles-visualization.git
+   git clone https://github.com/DevanshJouLe/Tableau_Visualisation-Project
 2. **Open the Tableau Project**:
 Open Tableau and load the .twbx file from the Tableau folder.
 
