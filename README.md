@@ -44,10 +44,9 @@ The Tableau dashboard provides insights into:
    ```bash
    git clone https://github.com/yourusername/netflix-titles-visualization.git
 2. **Open the Tableau Project**:
-
 Open Tableau and load the .twbx file from the Tableau folder.
-3. **Explore the Dashboard**:
 
+3. **Explore the Dashboard**:
 Interact with the dashboard to explore various insights and comparisons.
 
 ## Insights and Recommendations
@@ -57,10 +56,12 @@ Based on the visualizations, here are some potential product improvement suggest
 
 Increase the production of high-demand genres.
 Balance the addition of new content between movies and TV shows to cater to different audience preferences.
+
 **User Experience**:
 
 Enhance the discovery features to highlight trending genres and newly released titles.
-Implement personalized recommendations based on users’ viewing history and preferences.
+Implement personalized recommendations based on user’s viewing history and preferences.
+
 **Content Duration**:
 Optimal Content Length: Analyze user engagement metrics to determine the optimal content duration for various genres.
 
